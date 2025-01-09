@@ -1,0 +1,9 @@
+# Ignore tout par défaut
+*
+
+# Ne pas ignorer les répertoires
+!*/
+
+# Autoriser modele_lstm_last.ipynb
+!modele_lstm_last.ipynb
+
